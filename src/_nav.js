@@ -42,6 +42,11 @@ export default {
       icon: 'icon-puzzle',
       children: [
         {
+          name: 'Schedule',
+          url: '/schedule',
+          icon: 'icon-puzzle',
+        },
+        {
           name: 'Breadcrumbs',
           url: '/base/breadcrumbs',
           icon: 'icon-puzzle',
